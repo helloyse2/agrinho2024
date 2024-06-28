@@ -1,6 +1,6 @@
 body{
 
-    background-color: #8e72a9;
+    background-color: hsl(73, 100%, 83%);
 
 }
 
@@ -27,5 +27,12 @@ padding: 20px;
 
 .sobre{
     display: flex;
-    
-    }
+    justify-content: center;
+    align-items: center;
+
+}
+
+.sobre_texto{
+
+    padding: 40px;
+}
