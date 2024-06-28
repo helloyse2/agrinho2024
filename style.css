@@ -45,3 +45,8 @@ padding: 20px;
     gap: 20px;
     padding: 20px;
 }
+.elementos__imagem{
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+}
